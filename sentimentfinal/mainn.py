@@ -89,7 +89,7 @@ from nltk.corpus import opinion_lexicon
 positive_words = set(opinion_lexicon.positive())
 
 negative_words = set(opinion_lexicon.negative())
-negative_words |= set(extranegetive_orcuss)
+
 totalval = []
 
 for sentence in userinput:

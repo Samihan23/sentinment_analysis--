@@ -2,11 +2,11 @@ import csv
 import pandas as pd
 from googleapiclient.errors import HttpError
 from googleapiclient.discovery import build
-import apike
+
 
 
 # Create a YouTube service object
-youtube = build('youtube', 'v3', developerKey=apike.api_key)
+youtube = build('youtube', 'v3', developerKey="api key")
 
 def get_video_comments(video_id):
     comments = []

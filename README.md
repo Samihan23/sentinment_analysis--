@@ -1,7 +1,8 @@
 
-# Sentiment Analysis    check "DEMO EXAMPLE FILE "
+# Sentiment Analysis   
+● check "DEMO EXAMPLE FILE "
 
-●analyze  public opinion on various topics. Implemented 
+analyze  public opinion on various topics. Implemented 
 YouTube Data API to retrieve top 5 videos based on user-inputted topics. Extracted and stored comments 
 from selected videos as text files for further analysis using algorithm .
  
